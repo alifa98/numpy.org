@@ -1,91 +1,88 @@
 ---
-title: About Us
+title: درباره ما
 sidebar: false
 ---
 
-NumPy is an open source project that enables numerical computing with Python. It was created in 2005 building on the early work of the Numeric and Numarray libraries. NumPy will always be 100% open source software and free for all to use. It is released under the liberal terms of the [modified BSD license](https://github.com/numpy/numpy/blob/main/LICENSE.txt).
+NumPy یک پروژه متن‌باز است که محاسبات عددی با Python را ممکن می‌سازد. این پروژه در سال ۲۰۰۵ بر اساس کارهای اولیه کتابخانه‌های Numeric و Numarray ایجاد شد. NumPy همیشه یک نرم‌افزار ۱۰۰٪ متن‌باز و رایگان برای استفاده عموم خواهد بود. این نرم‌افزار تحت شرایط [مجوز BSD اصلاح‌شده](https://github.com/numpy/numpy/blob/main/LICENSE.txt) منتشر شده است.
 
-NumPy is developed in the open on GitHub, through the consensus of the NumPy and wider scientific Python community. For more information on our governance approach, please see our [Governance Document](https://www.numpy.org/devdocs/dev/governance/index.html).
+NumPy در GitHub، از طریق اجماع جامعه NumPy و جامعه گسترده‌تر علمی Python توسعه داده می‌شود. برای اطلاعات بیشتر در مورد روش نظارت، لطفاً به [سند حکمرانی](https://www.numpy.org/devdocs/dev/governance/index.html) مراجعه کنید.
 
+## شورای راهبری
 
-## Steering Council
+شورای راهبری NumPy، نهاد حاکم بر این پروژه است. نقش آن اطمینان از پایداری بلندمدت پروژه، هم به عنوان یک بسته نرم‌افزاری و هم به عنوان یک جامعه، از طریق همکاری با جامعه گسترده‌تر NumPy است. اعضای فعلی شورای راهبری NumPy به شرح زیر است (به ترتیب حروف الفبای انگلیسی، بر اساس نام خانوادگی):
 
-The NumPy Steering Council is the project's governing body. Its role is to ensure, through working with and serving the broader NumPy community, the long-term sustainability of the project, both as a software package and community. The NumPy Steering Council currently consists of the following members (in alphabetical order, by last name):
+- سباستین برگ
+- رالف گومرز
+- چارلز هریس
+- استفان هویر
+- اینسا پاوسون
+- متی پیکوس
+- استفان وندروالت
+- ملیسا وبر مندونسا
+- اریک ویزر
 
-- Sebastian Berg
-- Ralf Gommers
-- Charles Harris
-- Stephan Hoyer
-- Inessa Pawson
-- Matti Picus
-- Stéfan van der Walt
-- Melissa Weber Mendonça
-- Eric Wieser
+اعضای قدیمی:
 
-Emeritus:
+- الکس گریفیگ (۲۰۱۵-۲۰۱۷)
+- آلن هالدین (۲۰۱۵-۲۰۲۱)
+- مارتن وندروالت (۲۰۱۷-۲۰۱۹)
+- تراویس اولیفانت (بنیانگذار پروژه، ۲۰۰۵-۲۰۱۲)
+- ناتانیل اسمیت (۲۰۱۲-۲۰۲۱)
+- جولیان تیلور (۲۰۱۳-۲۰۲۱)
+- جیمی فرناندز دل ریو (۲۰۱۴-۲۰۲۱)
+- پاولی ویرتانن (۲۰۰۸-۲۰۲۱)
 
-- Alex Griffing (2015-2017)
-- Allan Haldane (2015-2021)
-- Marten van Kerkwijk (2017-2019)
-- Travis Oliphant (project founder, 2005-2012)
-- Nathaniel Smith (2012-2021)
-- Julian Taylor (2013-2021)
-- Jaime Fernández del Río (2014-2021)
-- Pauli Virtanen (2008-2021)
+برای تماس با شورای راهبری NumPy، لطفاً ایمیلتان را به numpy-team@googlegroups.com ارسال کنید.
 
-To contact the NumPy Steering Council, please email numpy-team@googlegroups.com.
+## تیم‌ها
 
-## Teams
+رهبری پروژه NumPy به طور فعال در حال تلاش برای متنوع‌سازی مسیرهای مشارکت در پروژه است.<br>
+NumPy در حال حاضر تیم‌های زیر را دارد:
 
-The NumPy project leadership is actively working on diversifying contribution pathways to the project.<br>
-NumPy currently has the following teams:
+- توسعه
+- مستندسازی
+- رسیدگی و اولویت‌بندی
+- وب‌سایت
+- نظرسنجی
+- ترجمه‌ها
+- مربیان اسپرینت
+- بهینه‌سازی
+- تأمین مالی و کمک‌های مالی
 
-- development
-- documentation
-- triage
-- website
-- survey
-- translations
-- sprint mentors
-- optimization
-- funding and grants
+برای اطلاعات بیشتر به صفحه [تیم‌ها](/teams) مراجعه کنید.
 
-See the [Team](/teams) page for more info.
+## زیرکمیته NumFOCUS
 
-## NumFOCUS Subcommittee
+- چارلز هریس
+- رالف گومرز
+- اینسا پاوسون
+- سباستین برگ
+- عضو خارجی: توماس کاسول
 
-- Charles Harris
-- Ralf Gommers
-- Inessa Pawson
-- Sebastian Berg
-- External member: Thomas Caswell
+## حامیان
 
-## Sponsors
-
-NumPy receives direct funding from the following sources:
+NumPy از منابع زیر به‌طور مستقیم تأمین مالی می‌شود:
 {{< sponsors >}}
 
+## شرکای سازمانی
 
-## Institutional Partners
+شرکای مؤسسه‌ای یا سازمانی سازمان‌هایی هستند که از پروژه با استخدام افرادی که به عنوان بخشی از کارشان به NumPy کمک می‌کنند، حمایت می‌کنند. شرکای مؤسسه‌ای فعلی عبارتند از:
 
-Institutional Partners are organizations that support the project by employing people that contribute to NumPy as part of their job. Current Institutional Partners include:
-
-- UC Berkeley (Stéfan van der Walt)
-- Quansight (Nathan Goldbaum, Ralf Gommers, Matti Picus, Melissa Weber Mendonça)
-- NVIDIA (Sebastian Berg)
+- UC Berkeley (استفان وندروالت)
+- Quansight (ناتان گلدباوم، رالف گومرز، متی پیکوس، ملیسا وبر مندونسا)
+- NVIDIA (سباستین برگ)
 
 {{< partners >}}
 
+## اهدا
 
-## Donate
+اگر NumPy را در کار، پژوهش، یا شرکت خود مفید یافته‌اید، لطفاً یک کمک مالی به پروژه ارائه دهید که متناسب با منابع شما باشد. هر مبلغ جزئی باعث بهبود و کمک می‌شود! تمام کمک‌ها صرفاً برای تأمین مالی توسعه نرم‌افزار متن‌باز NumPy، مستندسازی، و جامعه آن استفاده خواهد شد.
 
-If you have found NumPy useful in your work, research, or company, please consider a donation to the project commensurate with your resources. Any amount helps! All donations will be used strictly to fund the development of NumPy’s open source software, documentation, and community.
+NumPy یک پروژه حمایتی NumFOCUS است، یک سازمان خیریه غیرانتفاعی 501(c)(3) در ایالات متحده. NumFOCUS به NumPy پشتیبانی مالی، قانونی و اداری ارائه می‌دهد تا به حفظ سلامت و پایداری پروژه کمک کند. برای اطلاعات بیشتر به [numfocus.org](https://numfocus.org) مراجعه کنید.
 
-NumPy is a Sponsored Project of NumFOCUS, a 501(c)(3) nonprofit charity in the United States. NumFOCUS provides NumPy with fiscal, legal, and administrative support to help ensure the health and sustainability of the project. Visit [numfocus.org](https://numfocus.org) for more information.
+کمک‌های مالی به NumPy توسط [NumFOCUS](https://numfocus.org) مدیریت می‌شود. برای اهداکنندگان در ایالات متحده، کمک شما به اندازه‌ای که قانون اجازه می‌دهد، از مالیات کسر می‌شود. همانند هر کمک مالی، باید با مشاور مالیاتی خود در مورد وضعیت مالیاتی خاص خود مشورت کنید.
 
-Donations to NumPy are managed by [NumFOCUS](https://numfocus.org). For donors in the United States, your gift is tax-deductible to the extent provided by law. As with any donation, you should consult with your tax advisor about your particular tax situation.
-
-NumPy's Steering Council will make the decisions on how to best use any funds received. Technical and infrastructure priorities are documented on the [NumPy Roadmap](https://www.numpy.org/neps/index.html#roadmap).
+شورای راهبری NumPy تصمیم‌گیری خواهد کرد که بهترین استفاده از هرگونه وجوه دریافت شده چگونه خواهد بود. اولویت‌های فنی و زیرساختی در [نقشه راه NumPy](https://www.numpy.org/neps/index.html#roadmap) مستندسازی شده‌اند.
 
 {{<opencollective>}}
 
