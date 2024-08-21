@@ -6,44 +6,44 @@ title:
 
 [[item]]
 type = 'card'
-title = 'Powerful N-dimensional arrays'
+title = 'آرایه‌های قدرتمند N بعدی'
 body = '''
-Fast and versatile, the NumPy vectorization, indexing, and broadcasting concepts are the de-facto standards of array computing today.
+سریع و همه‌کاره، مفهوم‌های برداری‌سازی، اندیس‌گذاری، و انتشار NumPy به استانداردهای محاسبات آرایه‌ای امروزی تبدیل شده‌اند.
 '''
 
 [[item]]
 type = 'card'
-title = 'Numerical computing tools'
+title = 'ابزارهای محاسبات عددی'
 body = '''
-NumPy offers comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more.
+NumPy مجموعه توابع ریاضی کامل، مولدهای عدد تصادفی، ابزارهای جبر خطی، تبدیل‌های فوریه، و بیشتر را ارائه می‌دهد.
 '''
 
 [[item]]
 type = 'card'
-title = 'Open source'
+title = 'متن باز'
 body = '''
-Distributed under a liberal [BSD license](https://github.com/numpy/numpy/blob/main/LICENSE.txt), NumPy is developed and maintained [publicly on GitHub](https://github.com/numpy/numpy) by a vibrant, responsive, and diverse [community](/community).
+NumPy تحت مجوز آزاد [BSD](https://github.com/numpy/numpy/blob/main/LICENSE.txt) منتشر می‌شود و توسط یک [جامعه](/community) فعال، پاسخگو و متنوع [به صورت عمومی در GitHub](https://github.com/numpy/numpy) توسعه و نگهداری می‌شود.
 '''
 
 [[item]]
 type = 'card'
-title = 'Interoperable'
+title = 'سازگار'
 body = '''
-NumPy supports a wide range of hardware and computing platforms, and plays well with distributed, GPU, and sparse array libraries.
+NumPy از طیف گسترده‌ای از سخت‌افزارها و پلتفرم‌های محاسباتی پشتیبانی می‌کند و با کتابخانه‌های آرایه توزیع‌شده، GPU، و کم‌تراکم به خوبی کار می‌کند.
 '''
 
 [[item]]
 type = 'card'
-title = 'Performant'
+title = 'کارآمد'
 body = '''
-The core of NumPy is well-optimized C code. Enjoy the flexibility of Python with the speed of compiled code.
+هسته NumPy کد بهینه‌سازی شده C است. از انعطاف‌پذیری پایتون با سرعت کد کامپایل‌شده لذت ببرید.
 '''
 
 [[item]]
 type = 'card'
-title = 'Easy to use'
+title = 'آسان برای استفاده'
 body = '''
-NumPy's high level syntax makes it accessible and productive for programmers from any background or experience level.
+سینتکس سطح بالای NumPy آن را برای برنامه‌نویسان از هر پیش‌زمینه یا سطح تجربه‌ای قابل دسترس می‌کند.
 '''
 
 {{< /grid>}}
